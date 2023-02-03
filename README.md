@@ -4,11 +4,7 @@
 <h3 align="center">🌱 I’m currently learning CDAC PG-DAC</h3><br>
  <h4 align="center">📫 How to reach me:Linkdin=> https://www.linkedin.com/in/sameerdhumal14</h4>
  <h4 align="center">📫 How to reach me:Email=> sameerdhumal.sd@gmail.com </h4><br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerdhumal&show_icons=true&locale=en&layout=compact" alt="sameerdhumal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerdhumal&show_icons=true&locale=en" alt="sameerdhumal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerdhumal&" alt="sameerdhumal" /></p>
+ 
 <!--
 **sameerdhumal/sameerdhumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
